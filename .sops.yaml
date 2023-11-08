@@ -1,0 +1,5 @@
+creation_rules:
+- path_regex: ^.*enc.*$
+  pgp: >-
+    BCB8E8E8A67FE39483F8CD09449B0B8D1AFEA717
+
